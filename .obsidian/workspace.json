@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "209c99c02beb1a11",
+    "type": "split",
+    "children": [
+      {
+        "id": "179ae37a36bfcd21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "508493121318a98f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ed06cfa9ee2ec71",
+    "type": "split",
+    "children": [
+      {
+        "id": "07fb558d6ab357e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00160c857caca624",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2b20011b1ca0d3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "612c0af68d5ca160",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27fd697af060e072",
+    "type": "split",
+    "children": [
+      {
+        "id": "4899a9220e5a0a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4ec9a527055fea2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f65696fdc5ec8e59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12b2601fa9edab5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d612ddd11219fc07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ce8509faa1323853",
+            "type": "leaf",
+            "state": {
+              "type": "RSS_FEED",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "cmdr:Templater: Create new note from template": false,
+      "cmdr:Mind Map: Preview the current note as a Mind Map": false
+    }
+  },
+  "active": "508493121318a98f",
+  "lastOpenFiles": [
+    "logs/project hail mary.md",
+    "setup.md",
+    "mindmaps/null.md",
+    "logs/null.md",
+    "templates/booknote.md",
+    "logs/read later.md",
+    "logs/index.md",
+    "templates/mindmap.md",
+    "mindmaps/project hail mary.md",
+    "files/obsidian_booknote_demo.mp4",
+    "mindmaps/book 1.md",
+    "logs/book 1.md",
+    "logs/book 3.md",
+    "mindmaps/book 3.md",
+    "logs/book 3.md",
+    "logs/book 2.md",
+    "files/Pasted image 20240603203448.png",
+    "mindmaps/book 2.md",
+    "<% createMM !== \"Skip\" && `mindmaps/${(await tp.file.create_new(tp.file.find_tfile(\"templates/mindmap\"), `mindmaps/${title}`)).basename}` %>.md",
+    "<% createMM !== \"Skip\" && `mindmaps/${(await tp.file.create_new(tp.file.find_tfile(\"templates/mindmap\"), `mindmaps",
+    "<% createMM !== \"Skip\" && `mindmaps/${(await tp.file.create_new(tp.file.find_tfile(\"templates",
+    "<% createMM !== \"Skip\" && `mindmaps",
+    "mindmaps/hello.md",
+    "logs/hello.md",
+    "files/demo.png",
+    "files/Pasted image 20240603195025.png",
+    "Untitled 1.md",
+    "Untitled 2.md",
+    "mindmaps/bye.md",
+    "logs/bye.md",
+    "2024-06-03.md",
+    "logs/Untitled 1.md",
+    "files/Pasted image 20240603164410.png",
+    "files",
+    "mindmaps/Pasted image 20240603163133.png",
+    "mm-phm.png",
+    "mindmaps",
+    "logs",
+    "templates"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "book-open",
+      "name": "Templater: Create new note from template",
+      "mode": "any",
+      "color": "#0062ff"
+    },
+    {
+      "id": "obsidian-mind-map:app:markmap-preview",
+      "icon": "pen-tool",
+      "name": "Mind Map: Preview the current note as a Mind Map",
+      "mode": "any",
+      "color": "#32ae19"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

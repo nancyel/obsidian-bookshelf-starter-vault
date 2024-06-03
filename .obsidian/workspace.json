@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "179ae37a36bfcd21",
+        "id": "369e9fedbfa8a2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "508493121318a98f",
+            "id": "2f40d48dc4d50eee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "logs/book 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf29cf6e4850da10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "logs/book 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "logs/book 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "logs/book 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "logs/book 1.md"
               }
             }
           },
@@ -157,11 +170,15 @@
       "cmdr:Mind Map: Preview the current note as a Mind Map": false
     }
   },
-  "active": "508493121318a98f",
+  "active": "cf29cf6e4850da10",
   "lastOpenFiles": [
+    "files/bookshelf-demo.gif",
+    "files/Pasted image 20240603215558.png",
+    "mindmaps/book 1.md",
+    "logs/book 1.md",
+    "README.md",
     "files/setting.png",
     "logs/project hail mary.md",
-    "README.md",
     "mindmaps/null.md",
     "logs/null.md",
     "templates/booknote.md",
@@ -170,8 +187,6 @@
     "templates/mindmap.md",
     "mindmaps/project hail mary.md",
     "files/obsidian_booknote_demo.mp4",
-    "mindmaps/book 1.md",
-    "logs/book 1.md",
     "logs/book 3.md",
     "mindmaps/book 3.md",
     "logs/book 3.md",

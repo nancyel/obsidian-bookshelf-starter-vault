@@ -1,8 +1,12 @@
 ## bookshelf-starter-vault
 
-![bookshelf-starter-vault](/files/setting.png)
+![bookshelf-starter-vault-demo](/files/bookshelf-demo.gif)
 
-Clone this repository to start your own bookshelf vault. This vault is designed to help you organize your reading notes, mind maps, and other related information. You can open this repo in a new vault in Obsidian, or you can copy the files to an existing vault.
+Clone this repository to start your own bookshelf vault. This vault is designed to help you organize your reading notes, mind maps, and other related information.
+
+![bookshelf-starter-vault-setting](/files/setting.png)
+
+You can open this repo in a new vault in Obsidian, or you can copy the files to an existing vault.
 
 Required plugins are Dataview, Templater, Commander, and Mind Map. They have been already installed in this vault. You can install additional plugins from the community plugins.
 
